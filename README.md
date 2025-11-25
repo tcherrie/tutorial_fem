@@ -4,7 +4,7 @@
 ## 1) Quickstart
 Click here to open the JupyterLite environment :
 
-[![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://tcherrie.github.io/tutorial_fem/lab/?path=student/a_MSE_gradient_descent.ipynb)
+[![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://tcherrie.github.io/tutorial_fem/lab/?path=student/Tutorial_FEM_GeePsNTalks.pdf)
 
 
 ## 2) About
